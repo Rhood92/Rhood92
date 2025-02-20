@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/richard-hood-jr/">Richard Hood</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am deeply passionate about IT and cybersecurity. I thrive on tackling complex challenges through hands-on projects that allow me to immerse myself in the ever-evolving landscape of digital security. I invite you to explore these projects and witness the dedication I bring to advancing IT and strengthening security operations.
 
 
 ## ⚠️ Vulnerability Management Projects
