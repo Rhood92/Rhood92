@@ -18,6 +18,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Rhood92/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
