@@ -10,7 +10,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
  
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]**
+- **[Threat Hunting Scenario (Tor Browser Usage)]** (In Progress)
 
 <hr/>
 
@@ -22,8 +22,8 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Rhood92/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rhood92/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rhood92/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rhood92/configure-ad) (In Progress)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rhood92/azure-network-protocols) (In Progress)
 
 
 
