@@ -22,7 +22,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Rhood92/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rhood92/configure-ad) (In Progress)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rhood92/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rhood92/azure-network-protocols) (In Progress)
 
 
