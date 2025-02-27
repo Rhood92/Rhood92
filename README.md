@@ -23,7 +23,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
     
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rhood92/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rhood92/azure-network-protocols) (In Progress)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rhood92/azure-network-protocols)
 
 
 
