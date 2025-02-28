@@ -10,7 +10,8 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
  
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenarios](https://github.com/Rhood92/threat-hunting-scenarios)**
+- **Threat Hunting Scenarios**
+  - [Scenario #1](https://github.com/Rhood92/threat-hunting-scenario1)
 - **[Threat Hunting Scenario (Tor Browser Usage)]**
 
 <hr/>
