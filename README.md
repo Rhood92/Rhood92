@@ -11,7 +11,6 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario]**
-- 
 - **[Threat Hunting Scenario (Tor Browser Usage)]**
 
 <hr/>
