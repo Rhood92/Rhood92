@@ -18,7 +18,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Rhood92/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Unauthorized Gambling Website Access & History Deletion)](https://github.com/Rhood92/gambling-website-access-against-policy-scenario)**
 
-**Incident Response Scenarios**
+- **Incident Response Scenarios**
 - **[Azure Sentinel Brute Force Detection](https://github.com/Rhood92/brute-force-detection)**
 
 <hr/>
