@@ -20,6 +20,8 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 
 - **Incident Response Scenarios**
   - [Azure Sentinel Brute Force Detection](https://github.com/Rhood92/brute-force-detection)
+  - [Azure Sentinel PowerShell Suspicious Web Request](https://github.com/Rhood92/PowerShell-Suspicious-Web-Request)
+
 
 <hr/>
 
