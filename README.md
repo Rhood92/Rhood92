@@ -8,7 +8,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 - **[Vulnerability Management Program Implementation](https://github.com/Rhood92/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Rhood92/Programmatic-Vulnerability-Remediations)**
  
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting, Security Operations & Incident Response 
 
 - **Threat Hunting Scenarios**
   - [Scenario #1](https://github.com/Rhood92/threat-hunting-scenario1)
@@ -17,6 +17,9 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
       
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Rhood92/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Unauthorized Gambling Website Access & History Deletion)](https://github.com/Rhood92/gambling-website-access-against-policy-scenario)**
+
+**Incident Response Scenarios**
+- **[Azure Sentinel Brute Force Detection](https://github.com/Rhood92/brute-force-detection)**
 
 <hr/>
 
