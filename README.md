@@ -25,6 +25,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 ## 🚨 Vulnerability Remediations & DISA STIGs
 
 - [DISA STIG-ID: WN10-AU-000500](https://github.com/Rhood92/DISA-STIG-ID-WN10-AU-000500)
+- [DISA STIG-ID: WN10-AC-000030](https://github.com/Rhood92/DISA-STIG-ID-WN10-AC-000030-)
 
 
 <hr/>
