@@ -26,6 +26,7 @@ I am deeply passionate about IT and cybersecurity. I thrive on tackling complex 
 
 - [DISA STIG-ID: WN10-AU-000500](https://github.com/Rhood92/DISA-STIG-ID-WN10-AU-000500)
 - [DISA STIG-ID: WN10-AC-000030](https://github.com/Rhood92/DISA-STIG-ID-WN10-AC-000030-)
+- [DISA STIG-ID: WN10-AC-000035](https://github.com/Rhood92/DISA-STIG-ID-WN10-AC-000035)
 
 
 <hr/>
